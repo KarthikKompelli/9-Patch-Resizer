@@ -1,14 +1,24 @@
 {
-  "source": "xxhdpi",
+  "source": "xxxhdpi",
   "densities": [
     {
       "scale": 4,
       "name": "xxxhdpi",
-      "active": false
+      "active": true
+    },
+    {
+      "scale": 4,
+      "name": "sw800dp-xhdpi",
+      "active": true
     },
     {
       "scale": 3,
       "name": "xxhdpi",
+      "active": true
+    },
+    {
+      "scale": 3,
+      "name": "sw600dp-xhdpi",
       "active": true
     },
     {
@@ -17,8 +27,18 @@
       "active": true
     },
     {
+      "scale": 2,
+      "name": "sw800dp",
+      "active": true
+    },
+    {
       "scale": 1.5,
       "name": "hdpi",
+      "active": true
+    },
+    {
+      "scale": 1.5,
+      "name": "sw600dp",
       "active": true
     },
     {
